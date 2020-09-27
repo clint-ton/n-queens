@@ -66,4 +66,4 @@ def n_queens(n):
             print("RESTART")
             initial_state = random_state(n)
 
-n_queens(100)
+n_queens(8)
