@@ -1,3 +1,6 @@
+#For anyone viewing this, I am aware it is unreadable, this is the result of me discovering dirty python one-liners while studying,
+# and converting an already written project into the below while experimenting with one-liners myself to see what is possible
+
 from itertools import combinations
 import random
 def greedy_descent(initial_state):
